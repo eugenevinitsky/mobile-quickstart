@@ -1,3 +1,5 @@
+# encoding=utf8
+
 import os
 from flask import Flask, request
 from twilio.util import TwilioCapability
